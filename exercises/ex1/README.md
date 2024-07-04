@@ -53,4 +53,12 @@ After completing these steps you will have created another class which selects d
 
 You've now created two classes showing how to output results to the console.
 
+## FULL STOP
+
+---
+
+*Before we continue, let's discuss why we can do a direct select on table /DMO/CARRIER when we're using ABAP for Cloud?*
+
+---
+
 Continue to - [Exercise 2 - Exposing and Consuming Services via HTTP ](../ex2/README.md)
