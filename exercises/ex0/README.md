@@ -20,7 +20,7 @@ After completing these steps you will have accessed your trial account on SAP Bu
 5.	Right-click on the ZLOCAL package and choose “New“, then “ABAP Package“. 
 <br>![](/exercises/ex0/images/00_00_0050.png)
 
-6.	Give the name of the package as Z_GRP_XXX where XXX is your group number. Group numbers will be assigned by the instructor. Also give a meaningful description and click “Next“.
+6.	Give the name of the package as Z_I8_XXX where XXX is your group number. Group numbers will be assigned by the instructor. Also give a meaningful description and click “Next“.
 <br>![](/exercises/ex0/images/00_00_0060.png)
 
 7.	Click “Next”.
