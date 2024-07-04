@@ -230,7 +230,12 @@ ENDCLASS.
 <br>![](/exercises/ex3/images/03_01_0280.png)
 
 
+## Challenge
 
+Find a way to:
+- Pass on parameters to your program
+- Make the filter dynamic
+- Use a second or even a third filter
 
 ## Summary
 
