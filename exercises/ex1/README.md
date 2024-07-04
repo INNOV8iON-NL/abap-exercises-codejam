@@ -57,7 +57,7 @@ You've now created two classes showing how to output results to the console.
 
 ---
 
-*Before we continue, let's discuss why we can do a direct select on table /DMO/CARRIER when we're using ABAP for Cloud?*
+*Before we continue, let's discuss why we can do a direct select on table /DMO/CARRIER when we're using ABAP for Cloud? What does the `|` symbol means in ABAP?*
 
 ---
 
