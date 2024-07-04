@@ -128,6 +128,12 @@ After completing these steps you will have consumed an external API from the SAP
 
 6. As your API keys are now exposed in your code, I would highly recommend that you return to your ZCL_MY_HTTPSRV_XXX class and remove them.
 
+## Challenge
+
+Find a way to:
+- NOT hardcode your API-key
+- Filter on CityName
+- Read ONE entry by bank key (hint: there is a specific API for this)
 
 ## Summary
 
